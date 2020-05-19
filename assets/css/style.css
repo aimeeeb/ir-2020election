@@ -2,6 +2,12 @@ h1, h2, h3, h4, h5, p, header, li {
 	font-family: 'Crimson Text', serif;
 }
 
+blockquote {
+    padding: 0 30px;
+    color: #555;
+    font-style: italic;
+}
+
 /*NAV BAR*/
 #topbar {
 	width: 75%;
@@ -49,6 +55,8 @@ main {
 }
 
 /*FOOTER*/
+
 .footer {
-	background: #ddd
+	background: #ddd;
+	margin-top: 60px;
 }

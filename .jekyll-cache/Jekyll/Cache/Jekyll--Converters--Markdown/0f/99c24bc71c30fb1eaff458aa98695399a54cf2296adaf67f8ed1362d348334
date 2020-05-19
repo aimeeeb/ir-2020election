@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Foreign Interference 2020</title>
-
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-<link rel="shortcut icon" href="favicon.png" type="image/x-icon">
-
-<!--LINK TO CSS-->
-<link rel="stylesheet" href="assets/css/style.css">
-
-<!--BOOTSTRAP-->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-
-<!--FONT-->
-<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
-
-</head>
-<body>
-    <header id="topbar">
-        <span><a id="topbar-title" href="http://localhost:4000/">Foreign Interference: 2020 U.S. Election</a></span>
-        <ul id="navbar" class="nav justify-content-center">
-            <li class="nav-item">
-                <a class="nav-link" href="http://localhost:4000/">Intro</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="http://localhost:4000/2016v2020">2016 v. 2020</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="http://localhost:4000/trump">President Donald Trump</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="http://localhost:4000/fbi">F.B.I.</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="http://localhost:4000/socialmedia">Social Media</a>
-            </li>
-        </ul>
-    </header>  
-        <main>
-            <div class="default-page">
-    <div class="default-header">
-        <h1> Intro </h1>
-    </div>
-    <div class="default-content">
-        <p>At times, countries may meddle in the affairs of other parts of the world. This becomes more prominent during times of elections, such as the United States Presidential election, where the outcome of the event will have an effect on the rest of the world for years. Recently, this has become an even greater risk with the rise of technology. Increased use of digital avenues for voting and campaigning as well as the presence of social media has put more attention on cybersecurity.</p>
+I"�<p>At times, countries may meddle in the affairs of other parts of the world. This becomes more prominent during times of elections, such as the United States Presidential election, where the outcome of the event will have an effect on the rest of the world for years. Recently, this has become an even greater risk with the rise of technology. Increased use of digital avenues for voting and campaigning as well as the presence of social media has put more attention on cybersecurity.</p>
 
 <h3 id="foreign-interference-in-the-2020-united-states-election">Foreign Interference in the 2020 United States Election</h3>
 
@@ -73,19 +25,4 @@
 </blockquote>
 
 <p>The United States elections, especially the presidential election, is the structure in place to allow citizens to act on these rights. By interfering on individual’s rights to properly assess the election, these foreign state actors are impeding on the United States’ sovereignty.</p>
-
-    </div>
-</div>
-        </main>
-    </body>
-    <footer class="footer">
-        <ul id="navbar" class="nav justify-content-center">
-            <li class="nav-item">
-                <a class="nav-link" href="/about">About</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/sources">Sources</a>
-            </li>
-        </ul>
-    </footer>
-</html>
+:ET

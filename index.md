@@ -11,36 +11,16 @@ Intelligence officials have warned of election interference efforts by Russia, C
 
 The main goal of these efforts is to spread disinformation. These efforts seem to prefer certain candidates, distorting the stances of their competitors.<sup>5</sup> It is believed that Russia aims to sow chaos and undermine the confidence that Americans have in the election system.<sup>5</sup> China, on the other hand, is focused on promoting their own economic standing.<sup>13</sup>
 
+There are a variety of methods used by foreign state actors to push their agendas. Using social media such as Twitter, Facebook, and Instagram, they create fake accounts to spread information that highlight on divisive topics.<sup>3</sup> The governments also utilize "media, false-flag operations, or sympathetic spokespersons," according to intelligence officials. The Chinese government finances media outlets that influence the point of view of United States citizens in China's favor.<sup>8</sup> Overall, the goal of these operations is to sway public opinion repeatedly sharing information using outlets that U.S. citizens regularly consume. In addition to these, some efforts may be involved in hacking into systems to get information on candidates or change the numbers at voting stations. Because of the resources needed to successfully into systems such as voter registrations systems, this is not as great of a concern as the spread of fraudulent information.<sup>8</sup>
 
+### Why is this an Issue?
 
-**notes to delete later**
+The United States is a nation-state separate from these other countries. This grants them sovereignty and as a democratic state the people within the country exercise self-determination.
 
-- Foreign Interference in the 2020 Election
-- Intelligence officials found that state actors from Russia, China, Iran, and North Korea are involved in efforts to meddle in the 2020 Election
-- The goal is to spread disinformation to influence the thoughts of Americans
-- Considered to have been a consistent issue especially since 2016
-- Use social media, sympathetic spokespersons, media, “false-flag operations”, hacking (3, 8)
+> **Nation-state.** a political community in which the state claims legitimacy on the grounds that it represents all citizens, including those who may identify as a separate community or nation
 
-Russia
+> **Sovereignty.** a state has control and authority over its own territory and being free from any higher legal authority
 
-- main goal is to sow chaos (5)
-- undermine American confidence in election systems
+> **Self determination.** the idea that a group of people in a discrete area should be able to govern themselves
 
-China
-
-- financing certain US media outlets 
-- main focus is to promote economic standing (13, 8)
-- Why is foreign meddling an issue
-- self determination of nation states - the people within a state determine the government
-- states should not be involved in sovereign decisions within a different state
-
-
-SOURCES:
-
-US warns of ‘ongoing’ election interference by Russia, China, Iran<sup>3</sup>
-
-2020 Election Meddling by China, Iran, N. Korea Likely, Administration Officials Warn<sup>8</sup>
-
- Lawmakers Are Warned That Russia Is Meddling to Re-elect Trump<sup>5</sup>
-
-FBI official: Russia wants to see US ‘tear ourselves apart’<sup>13</sup>
+The United States elections, especially the presidential election, is the structure in place to allow citizens to act on these rights. By interfering on individual's rights to properly assess the election, these foreign state actors are impeding on the United States' sovereignty. 
