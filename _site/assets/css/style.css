@@ -37,7 +37,7 @@ blockquote {
 	color: black !important;
 }
 
-	.nav-link:hover, .nav-link:active {
+	.nav-link:hover, .nav-link.active {
 		font-weight: bold !important;
 	}
 
