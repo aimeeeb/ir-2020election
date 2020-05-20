@@ -4,20 +4,18 @@ layout: default
 url: /fbi
 ---
 
-**notes to delete later**
+The Federal Bureau of Investigation, a.k.a. the F.B.I., is one of the leaders in counterintelligence efforts for the United States. They led the Mueller investigation in 2016 and are working towards protecting the 2020 U.S. election from the same foreign interference.
 
-- FBI
-- What have they done
-- Created Foreign Influence Task Force to focus on counterintelligence
-- consider a broader threat than just Russia (12)
-- brief lawmakers on the threats
-- work with FBI offices across country
-- works closely with other intelligence community agencies, as well as with state and local law enforcement partners and election officials, to ensure a common understanding of the threat and a unified strategy to address it
-- work with U.S. technology companies, including threat indicator sharing, to be important in combating foreign influence actors (14)
-- Liberalism
-- Liberalism has a focus on protecting the life, liberty, and property of individuals
-- focus on democracy and international norms
-- The FBI’s efforts to work together nationally shows liberalism
-- protects the people’s freedom to a fair election process
-- Follows norms that foreign states should not affect other states’ elections
-- shows cooperation over individual success
+### Actions by F.B.I. 
+
+Following the 2016 election, the F.B.I. created the Foreign Influence Task Force to focus on counterintelligence. This was originally going to be a temporary team but became permanent.<sup>2</sup> This team and all of the F.B.I. has made efforts to work closely with many actors to best protect the united states. Their plans for counterintelligence include working closely with other intelligence communities, law enforcement, election officials, and technology agencies.<sup>3</sup> They have also continued to brief lawmakers on their findings and the expected threats from foreign state actors.
+
+### Liberalism in F.B.I. Actions
+
+The F.B.I.'s efforts to protect the election by collaborating with other actors shows attention to protecting the rights of individuals through cooperation. These efforts show a liberalist approach.
+
+> **Liberalism.** A theory with a focus on protecting the life, liberty, property of individuals. Importance of democracy, cooperation, and international norms.
+
+The F.B.I.'s actions show that their main goal is to stop foreign interference to ensure that the election in unaffected by foreign actors. Liberalists believe in international norms and in this case the F.B.I. is enforcing the norm that other countries should not be involved in a separate state's election. In addition, this goal prioritizes preserving democracy and protecting U.S. citizens' right to a fair election process. This shows a liberalist focus on protecting individuals and valuing democracy.
+
+In addition, the F.B.I.'s plans mainly include cooperation with other companies. In an international sense, liberalism encourages different states to work together regardless of personal gain to better help individuals. On a smaller scale, the F.B.I.'s effort to work with actors across the U.S. show the liberalist encouragement of cooperation for the goal of protecting people.

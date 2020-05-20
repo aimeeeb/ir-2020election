@@ -8,7 +8,8 @@ url: /sources
 1. Abbruzzese, J. (2019, October 21). Mark Zuckerberg: Facebook caught Russia and Iran trying to interfere in 2020. Retrieved from https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-facebook-caught-russia-iran-trying-interfere-2020-n1069366
 
 1. Barnes, J. E., & Goldman, A. (2019, April 26). F.B.I. Warns of Russian Interference in 2020 Race and Boosts Counterintelligence Operations. Retrieved from https://www.nytimes.com/2019/04/26/us/politics/fbi-russian-election-interference.html
-Combating Foreign Influence. (2018, August 30). Retrieved from https://www.fbi.gov/investigate/counterintelligence/foreign-influence
+
+1. Combating Foreign Influence. (2018, August 30). Retrieved from https://www.fbi.gov/investigate/counterintelligence/foreign-influence
 
 1. Fabian, J. (2018, October 19). US warns of 'ongoing' election interference by Russia, China, Iran. Retrieved from https://thehill.com/policy/national-security/412292-us-warns-of-ongoing-election-interference-by-russia-china-iran
 

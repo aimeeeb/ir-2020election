@@ -13,7 +13,7 @@ blockquote {
 	width: 75%;
 	margin: 50px auto;
 	text-align: center;
-	border-bottom: 1pt solid black;
+	border-bottom: .5pt solid #ddd;
 }
 
 #topbar-title {
