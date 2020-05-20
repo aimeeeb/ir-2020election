@@ -82,3 +82,31 @@ main {
 .actor-link:hover div h3 {
 	text-decoration: none !important;
 }
+
+@media only screen and (max-width: 650px) {
+	main {
+		width: 80%;
+		margin: auto;
+	}
+}
+
+@media only screen and (max-width: 475px) {
+	h1 {
+		font-size: 2rem !important;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	h1 {
+		font-size: 1.5rem !important;
+	}
+
+	#topbar-title {
+		font-size: 2rem;
+	}
+
+	main {
+		width: 90%;
+		margin: auto;
+	}
+}
