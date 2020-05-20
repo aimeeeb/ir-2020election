@@ -60,3 +60,25 @@ main {
 	background: #ddd;
 	margin-top: 60px;
 }
+
+/* ACTORS page */
+
+.actor-link div {
+	width: 100%;
+	height: 200px;
+	background: darkred;
+	text-align: center;
+	color: white;
+	padding: 9% 0;
+	margin: 30px 0;
+}
+
+	.actor-link:hover div {
+		width: 100%;
+		height: 200px;
+		background: black;
+	}
+
+.actor-link:hover div h3 {
+	text-decoration: none !important;
+}
